@@ -1,5 +1,6 @@
 # Temario
 
+![Ericsson](../0-iteraciones/image/ericsson.png)
 ## Desarrollo de Software
 
 - ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
@@ -17,6 +18,7 @@
      * jueves 21/04/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Complejidad](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/3-complejidad)
+     * [Software](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/1-fundamentos/4-software) 
 
 - Disciplinas del Software: Requisitos, Análisis/Diseño, Implementación, Pruebas, Despliegue y Gestión
   * Convocatoria :
@@ -92,7 +94,7 @@
      * martes 05/07/2022 de 9:30AM a 11:00AM
      * jueves 07/07/2022 de 9:30AM a 11:00AM
   * Documentación :
-     * []()
+     * [Arquitectura del Software](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/5-arquitecturaSoftware)
 
 - Arquitectura MVC. Análisis de Casos de Uso
   * Convocatoria :
@@ -109,14 +111,16 @@
      * martes 06/09/2022 de 9:30AM a 11:00AM
      * jueves 08/09/2022 de 9:30AM a 11:00AM
   * Documentación :
-     * []()
+     * [0-itinerario](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/0-itinerario)
+     * [Pruebas del Software](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/1-pruebasSoftware)
 
 - Diseño de Casos de Prueba
   * Convocatoria :
      * martes 13/09/2022 de 9:30AM a 11:00AM
      * jueves 15/09/2022 de 9:30AM a 11:00AM
   * Documentación :
-     * []()
+     * [Pruebas Unitarias](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/2-pruebasUnitarias)
+     * [Casos de Pruebas Unitarias](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/3-casosPruebasUnitarias)
 
 
 ## Desarrollo Ágil
