@@ -7,10 +7,7 @@
   * Convocatoria 
      * martes 05/04/2022 de 9:30AM a 11:00AM
      * jueves 07/04/2022 de 9:30AM a 11:00AM
-  * Documentación
-     * []()
-     * []()
-     * []()  
+  * Documentación :
 
 - Complejidad, Crisis y Calidad del Software: Reusabilidad, Flexibilidad, Robustez y Testeabilidad
   * Convocatoria :
@@ -34,7 +31,6 @@
     * martes 03/05/2022 de 9:30AM a 11:00AM
     * jueves 05/05/2022 de 9:30AM a 11:00AM
   * Documentación :
-    * []()
 
 ## Disciplina de Diseño Diseño
 
@@ -44,15 +40,14 @@
      * jueves 12/05/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [UML](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/tech-uml)
-     * []()
 
 - Diseño. KISS, DRY, YAGNI, GRASP, ...
   * Convocatoria :
      * martes 17/05/2022 de 9:30AM a 11:00AM
      * jueves 19/05/2022 de 9:30AM a 11:00AM
   * Documentación :
-     * []()
-
+     * [Diseño](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/1-disenyo)
+     
 - Proyectos Ericsson
   * Convocatoria :
     * martes 24/05/2022 de 9:30AM a 11:00AM
@@ -102,7 +97,6 @@
      * jueves 14/07/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Arquitectura MVC](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/6-arquitecturaMVC)
-     * []()
 
 ## Disciplina de Pruebas
 
