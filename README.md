@@ -1,6 +1,6 @@
 # Temario
 
-![Ericsson](../image/ericsson.png)
+![Ericsson](./image/ericsson.png)
 ## Desarrollo de Software
 
 - ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
