@@ -2,10 +2,10 @@
 
 ## Desarrollo de Software
 
-### (Presentación en abierto) ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
+- (Presentación en abierto) ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
 
 
-### Complejidad, Crisis y Calidad del Software: Reusabilidad, Flexibilidad, Robustez y Testeabilidad
+- Complejidad, Crisis y Calidad del Software: Reusabilidad, Flexibilidad, Robustez y Testeabilidad
 
 
 ### Disciplinas del Software: Requisitos, Análisis/Diseño, Implementación, Pruebas, Despliegue y Gestión
