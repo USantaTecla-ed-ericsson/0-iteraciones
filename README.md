@@ -2,7 +2,7 @@
 
 ## Desarrollo de Software
 
-- (Presentación en abierto) ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
+- ¿Después del Agilismo? eXtreme Programming ¿vs? Rational Unified Process
   * Convocatoria 
      * martes 05/04/2022 de 9:30AM a 11:00AM
      * jueves 07/04/2022 de 9:30AM a 11:00AM
