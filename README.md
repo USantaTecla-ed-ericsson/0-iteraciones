@@ -74,27 +74,27 @@
 
 - Proyectos Ericsson
   * Convocatoria :
-     * martes 21/06/2022 de 9:30AM a 11:00AM
-     * jueves 23/06/2022 de 9:30AM a 11:00AM
+     * martes 06/09/2022 de 9:30AM a 11:00AM
+     * jueves 08/09/2022 de 9:30AM a 11:00AM
 
 - Patrones estructurales, creacionales y de comportamiento
   * Convocatoria :
-     * martes 28/06/2022 de 9:30AM a 11:00AM
-     * jueves 30/06/2022 de 9:30AM a 11:00AM
+     * martes 13/09/2022 de 9:30AM a 11:00AM
+     * jueves 15/09/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [patronesDisenyo](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/4-patronesDisenyo)
 
 - Arquitecturas. Principios de Paquetes y Estilos Arquitectónicos
   * Convocatoria :
-     * martes 05/07/2022 de 9:30AM a 11:00AM
-     * jueves 07/07/2022 de 9:30AM a 11:00AM
+     * martes 20/09/2022 de 9:30AM a 11:00AM
+     * jueves 22/09/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Arquitectura del Software](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/5-arquitecturaSoftware)
 
 - Arquitectura MVC. Análisis de Casos de Uso
   * Convocatoria :
-     * martes 12/07/2022 de 9:30AM a 11:00AM
-     * jueves 14/07/2022 de 9:30AM a 11:00AM
+     * martes 27/09/2022 de 9:30AM a 11:00AM
+     * jueves 29/09/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Arquitectura MVC](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/3-disenyo/6-arquitecturaMVC)
 
@@ -102,16 +102,16 @@
 
 - Control de Calidad y Pruebas del Software
   * Convocatoria :
-     * martes 06/09/2022 de 9:30AM a 11:00AM
-     * jueves 08/09/2022 de 9:30AM a 11:00AM
+     * martes 04/10/2022 de 9:30AM a 11:00AM
+     * jueves 06/10/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [0-itinerario](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/0-itinerario)
      * [Pruebas del Software](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/1-pruebasSoftware)
 
 - Diseño de Casos de Prueba
   * Convocatoria :
-     * martes 13/09/2022 de 9:30AM a 11:00AM
-     * jueves 15/09/2022 de 9:30AM a 11:00AM
+     * martes 11/10/2022 de 9:30AM a 11:00AM
+     * jueves 13/10/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Pruebas Unitarias](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/2-pruebasUnitarias)
      * [Casos de Pruebas Unitarias](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/4-pruebas/3-casosPruebasUnitarias)
@@ -121,16 +121,16 @@
 
 - Refactoring y Historias de Usuario vs Casos de Uso
   * Convocatoria :
-     * martes 20/09/2022 de 9:30AM a 11:00AM
-     * jueves 22/09/2022 de 9:30AM a 11:00AM
+     * martes 18/10/2022 de 9:30AM a 11:00AM
+     * jueves 20/10/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [Refactoring](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/6-agiles/1-refactoring)
      * [Historias de Usuario](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/6-agiles/2-historiasUsuario)
 
 - Test-driven development. XP + Scrumban. Agilismo y Lean
   * Convocatoria : 
-     * martes 27/09/2022 de 9:30AM a 11:00AM
-     * jueves 29/09/2022 de 9:30AM a 11:00AM
+     * martes 25/10/2022 de 9:30AM a 11:00AM
+     * jueves 27/10/2022 de 9:30AM a 11:00AM
   * Documentación :
      * [XP](https://github.com/USantaTecla-0-general/3-publicaciones/tree/master/USantaTecla/6-agiles/3-eXteProgramming)
 
